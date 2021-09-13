@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahsanoulhouque123@gmail.com**
 
-- ⚡ Fun fact **I play games and also love coding.**
+- ⚡ Fun fact **I love To play games and also love coding.**
 
 ## 🚀 Languages and Tools:
 
