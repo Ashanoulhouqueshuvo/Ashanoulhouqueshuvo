@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Programming Hero**
 
-- 🌱 I’m currently learning **React,NodeJs, React API.**
+- 🌱 I’m currently learning **React,NodeJs, MongoDB,API.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **ahsanoulhouque123@gmail.com**
 
-- ⚡ Fun fact **I play games and also love coding.**
+- ⚡ Fun fact **I Love to  play games and also love coding.**
 
 ## 🚀 Languages and Tools:
 
@@ -70,6 +70,6 @@
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
