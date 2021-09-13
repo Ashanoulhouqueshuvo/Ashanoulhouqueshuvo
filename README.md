@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahsanoulhouque123@.com**
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +25,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajauntor&show_icons=true&locale=en" alt="ajauntor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajauntor&" alt="ajauntor" /></p>
+<p><img align="center" src="" alt="" /></p>
 
