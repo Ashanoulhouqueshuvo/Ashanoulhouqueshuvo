@@ -6,17 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on **Programming Hero**
 
 - 🌱 I’m currently learning **React,NodeJs, React API.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at 
-
 - 📫 How to reach me **ahsanoulhouque123@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and also love coding.**
 
 ## 🚀 Languages and Tools:
 
